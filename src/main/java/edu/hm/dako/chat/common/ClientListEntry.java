@@ -23,6 +23,8 @@ public class ClientListEntry {
 	// Verbindungs-Handle fuer Transportverbindung zum Client
 	private Connection con;
 
+
+	
 	// Kennzeichen zum Beenden des Worker-Threads
 	boolean finished;
 
